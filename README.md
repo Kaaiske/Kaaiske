@@ -73,33 +73,27 @@
 
 ###
 
-## Quem Sou Eu?
+<img align="right" height="200" src="https://i.imgur.com/SFZfcyv.jpeg" style="margin-left: 20px;" />
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-<tr style="border: none;">
+<p style="width: 350px; font-size: 18px; line-height: 1.8;">
+Me chamo <strong>Caique</strong>, tenho <strong>22 anos</strong> e sou <strong>Técnico em Informática pelo Instituto Federal Baiano</strong>. Desde cedo desenvolvi interesse por tecnologia, criando base sólida em hardware, software, redes, manutenção de computadores e lógica de programação.
+</p>
 
-<td width="60%" style="border: none; padding-right: 20px; vertical-align: middle;">
+<p style="width: 350px; font-size: 18px; line-height: 1.8;">
+Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UNIP</strong>, aprofundando conhecimentos em desenvolvimento web, banco de dados e engenharia de software. Busco evolução constante, aprimorando minhas habilidades técnicas e criando soluções eficientes com foco em aprendizado contínuo e crescimento profissional.
+</p>
 
-Me chamo **Caique**, tenho **22 anos** e sou  
-**Técnico em Informática pelo Instituto Federal Baiano**.  
-Desde cedo desenvolvi interesse por tecnologia, criando base sólida em hardware, software, redes e lógica de programação.
-
-Atualmente sou estudante de  
-**Análise e Desenvolvimento de Sistemas** na **UNIP**, buscando evolução constante na área.
-
-</td>
-
-<td width="40%" align="center" style="border: none; vertical-align: middle;">
-
-<img src="https://i.imgur.com/SFZfcyv.jpeg" height="200px"/>
-
-</td>
-
-</tr>
-</table>
+<br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaaiske&locale=pt-br&mode=weekly&theme=default&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaaiske&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Kaaiske&locale=pt-br&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaaiske&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
