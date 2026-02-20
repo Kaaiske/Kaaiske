@@ -1,3 +1,7 @@
+<h3 align="left">KAAISKE Erro 404: Desenvolvedor não encontrado...</h3>
+
+###
+
 <br clear="both">
 
 <img align="right" height="200" src="https://i.imgur.com/7Mb2TgC.jpeg"  />
@@ -70,6 +74,8 @@
 </div>
 
 ###
+
+
 <p align="center">
 <code>while(alive) { aprender(); evoluir(); }</code><br>
 <code>Erro 404: Zona de conforto não encontrada.</code>
