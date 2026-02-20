@@ -66,8 +66,18 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:Kaaiske?theme=3d-num&padding=4&scale=0.5&align=bottom&pixelated=1&darkmode=1"  />
+  <img src="https://count.getloli.com/@:Kaaiske?theme=3d-num&padding=7&scale=0.5&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<p align="left"><h2 align="center">Quem Sou Eu?</h2><br><br><p align="justify"><br>Me chamo <strong>Caique</strong>, tenho <strong>22 anos</strong> e sou <strong>Técnico em Informática pelo Instituto Federal Baiano</strong>. Desde cedo desenvolvi interesse por tecnologia, criando base sólida em hardware, software, redes e lógica de programação. Atualmente sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>UNIP</strong>, aprofundando meus conhecimentos em desenvolvimento de software, banco de dados e engenharia de software, buscando evolução constante na área.<br></p></p>
 
 ###
 
@@ -76,28 +86,3 @@
 <img src="https://raw.githubusercontent.com/Kaaiske/Kaaiske/output/snake.svg" alt="Snake animation" />
 
 ###
-
-## 💻 Quem Sou Eu?
-
-<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
-<tr>
-
-<td width="60%" style="border: none; padding-right: 20px;">
-
-Me chamo **Caique**, tenho **22 anos** e sou  
-**Técnico em Informática pelo Instituto Federal Baiano**.  
-Desde cedo desenvolvi interesse por tecnologia, criando base sólida em hardware, software, redes e lógica de programação.
-
-Atualmente sou estudante de  
-**Análise e Desenvolvimento de Sistemas** na **UNIP**, buscando evolução constante na área.
-
-</td>
-
-<td width="40%" align="center" style="border: none;">
-
-<img src="https://i.imgur.com/SFZfcyv.jpeg" height="200px"/>
-
-</td>
-
-</tr>
-</table>
